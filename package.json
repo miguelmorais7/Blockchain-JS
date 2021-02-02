@@ -1,0 +1,23 @@
+{
+  "name": "Blockchain-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelmorais7/Blockchain-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelmorais7/Blockchain-JS/issues"
+  },
+  "homepage": "https://github.com/miguelmorais7/Blockchain-JS#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
